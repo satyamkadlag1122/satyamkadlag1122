@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Kadlag</h1>
 <h3 align="center">Aspiring Data Analyst | Business Analyst | AI & Data Science Student</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=satyamkadlag1835&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkadlag1835" />
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,9 +8,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Data Analytics Projects using SQL, Python, Excel, and Power BI**
 
-- 🌱 I’m currently learning **Advanced Power BI, Business Analysis, Data Visualization, and Statistics**
+- 🌱 I’m currently learning **Advanced Power BI, Business Analysis and Statistics**
 
 - 👨‍💻 All of my projects are available on **GitHub**
 
