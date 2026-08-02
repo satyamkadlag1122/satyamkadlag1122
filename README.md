@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Kadlag</h1>
 <h3 align="center">Aspiring Data Analyst | Business Analyst | AI & Data Science Student</h3>
 
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satyamkadlag1835&theme=flat&margin-w=10" alt="satyamkadlag1835" />
-  </a>
-</p>
-
-
 - 🌱 I’m currently learning **Advanced Power BI, Business Analysis and Statistics**
 
 - 👨‍💻 All of my projects are available on **GitHub**
